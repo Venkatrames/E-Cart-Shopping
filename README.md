@@ -1,91 +1,55 @@
-# E-Cart Shopping Application 🛒
+# E-Cart Shopping Application
 
-A **full-fledged online shopping web application** built using **Java (JDBC, Servlets, JSP), MySQL, and Eclipse IDE** to provide users with a seamless shopping experience.
+## 📌 Project Overview
+The **E-Cart Shopping Application** is a fully functional e-commerce platform developed using **Java (JSP, Servlets, JDBC), MySQL, and Bootstrap**. It allows users to browse and purchase products, while administrators can manage products efficiently.
 
----
+## ✨ Features
+### 🔹 User Features:
+- Browse products by category
+- Add products to cart
+- Secure checkout and order confirmation
+- User authentication and session management
 
-## 📌 Features
-
-- ✅ **User Authentication:** Register/Login system for customers.
-- ✅ **Product Catalog:** View available products with details.
-- ✅ **Shopping Cart:** Add/remove products from the cart.
-- ✅ **Order Management:** Place, track, and manage orders.
-- ✅ **Admin Panel:** Manage products and orders (future enhancement).
-- ✅ **Email Confirmation:** Sends order confirmation via email.
-
----
+### 🔹 Admin Panel Features:
+- **Admin Login Page** for secure access
+- **Product Management (CRUD Operations)**:
+  - Add new products
+  - Update product details
+  - Delete products
+  - View all products
+- Modern **UI/UX Design** for seamless management
 
 ## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java (JDBC, Servlets, JSP)
+- **Frontend:** HTML, CSS, Bootstrap ,JavaScript
+- **Backend:** Java (JSP, Servlets, JDBC)
 - **Database:** MySQL
-- **Web Server:** Apache Tomcat
-- **IDE:** Eclipse
+- **Tools:** Eclipse, Apache Tomcat, MySQL Workbench
 
----
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
-- Java Development Kit (**JDK 8+**)
-- Apache Tomcat (**9+**)
-- MySQL Server (**5.7+**)
-- Eclipse IDE
-
-### Steps to Run the Project
-
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/your-username/E-Cart-Shopping.git
+## 🚀 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Venkatramesh/your-repo-name.git
    ```
-2. **Import the project into Eclipse:**  
-   - Open **Eclipse IDE**  
-   - Go to **File** > **Import** > **Existing Projects into Workspace**  
-   - Select the cloned project folder
-3. **Set up MySQL database:**  
-   - Create a database named **e_cart_db**  
-   - Import the provided **SQL script** (`e_cart_db.sql`).
-4. **Configure `DbCon.java` with your MySQL credentials.**
-5. **Run the project on Apache Tomcat.**
-6. Open a browser and navigate to:
-   ```
-   http://localhost:8080/E-Cart-Shopping/
-   ```
+2. Import the project into **Eclipse IDE**.
+3. Set up **Apache Tomcat Server**.
+4. Create a MySQL database and import the provided SQL schema.
+5. Configure database connection in `DbCon.java`.
+6. Run the project on **Tomcat Server**.
 
----
+## 📷 Screenshots
+| User Dashboard | Admin Panel |
+|---------------|------------|
+| ![User Page](screenshots/user.png) | ![Admin Panel](screenshots/admin.png) |
 
-## 🖼️ Screenshots (Optional)
-Upload relevant screenshots like login, product listing, cart, and order confirmation.
+## 🏆 Future Enhancements
+- Implementing a **payment gateway** for secure transactions
+- Adding **order history & tracking**
+- Enhancing **search & filtering** capabilities
 
----
+## 📩 Connect with Me
+- **LinkedIn:** [Darla Venkat Ramesh](https://www.linkedin.com/in/darla-venkat-ramesh-4abb31206)
+- **GitHub:** [Venkatramesh](https://github.com/Venkatramesh)
 
-## 🚀 Future Enhancements
+⭐ **Feel free to fork, contribute, or suggest improvements!** Happy Coding! 🚀
 
-- 👉 Admin Dashboard for managing products/orders
-- 👉 Secure Payment Gateway Integration
-- 👉 Advanced search and filtering options
-
----
-
-## 📝 License
-
-This project is open-source under the **MIT License**.
-
----
-
-## 📢 Contribution Guidelines
-
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Push to the branch and submit a Pull Request.
-
----
-
-## 📢 Contact Information
-For any queries, contact:  
-**Your Name:** Darla Venkat Ramesh  
-**Email:** darlavenkatramesh@gmail.com  
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/darla-venkat-ramesh-4abb31206)
 
