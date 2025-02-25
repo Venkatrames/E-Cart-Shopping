@@ -37,9 +37,10 @@ The **E-Cart Shopping Application** is a fully functional e-commerce platform de
 6. Run the project on **Tomcat Server**.
 
 ## 📷 Screenshots
-| User Dashboard | Admin Panel |
-|---------------|------------|
-| ![User Page]( https://www.linkedin.com/posts/darla-venkat-ramesh-4abb31206_webdevelopment-java-fullstack-activity-7299793838376722432-73QL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR-IIMBad9g77rApl31RBjFM2e8ahrQ638 ) | ![Admin Panel]( https://www.linkedin.com/posts/darla-venkat-ramesh-4abb31206_webdevelopment-ecommerce-fullstackdevelopment-activity-7300032765427625986-ucpj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR-IIMBad9g77rApl31RBjFM2e8ahrQ638 ) |
+User Page : 
+https://www.linkedin.com/posts/darla-venkat-ramesh-4abb31206_webdevelopment-java-fullstack-activity-7299793838376722432-73QL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR-IIMBad9g77rApl31RBjFM2e8ahrQ638 
+Admin page: 
+https://www.linkedin.com/posts/darla-venkat-ramesh-4abb31206_webdevelopment-ecommerce-fullstackdevelopment-activity-7300032765427625986-ucpj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR-IIMBad9g77rApl31RBjFM2e8ahrQ638 ) |
 
 ## 🏆 Future Enhancements
 - Implementing a **payment gateway** for secure transactions
