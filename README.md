@@ -10,7 +10,7 @@ A **full-fledged online shopping web application** built using **Java (JDBC, Ser
 - ✅ **Product Catalog:** View available products with details.
 - ✅ **Shopping Cart:** Add/remove products from the cart.
 - ✅ **Order Management:** Place, track, and manage orders.
-- ✅ **Admin Panel:** Manage products and orders (future enhancement).
+- ✅ **Admin Panel:** Manage products and orders.
 - ✅ **Email Confirmation:** Sends order confirmation via email.
 
 ---
