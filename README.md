@@ -55,7 +55,7 @@ A **full-fledged online shopping web application** built using **Java (JDBC, Ser
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshots 
 Uploaded relevant screenshots like login, product listing, cart, and order confirmation. 
 
 **LinkedIn post 1(User Panel):** [LinkedIn post](https://www.linkedin.com/posts/darla-venkat-ramesh-4abb31206_webdevelopment-java-fullstack-activity-7299793838376722432-73QL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR-IIMBad9g77rApl31RBjFM2e8ahrQ638) 
